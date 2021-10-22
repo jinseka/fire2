@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120101621135",
+    "firebase_url": "https://mega211019-5afc9-default-rtdb.firebaseio.com",
+    "project_id": "mega211019-5afc9",
+    "storage_bucket": "mega211019-5afc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120101621135:android:28d1557f2c0c25e2b6cffa",
+        "android_client_info": {
+          "package_name": "com.aaa.fire2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120101621135-7gpmoeudirv2osk8m3fe29lu8nv4m2rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZlV3OoZQMbDF3DzhNG-_JCF0ev4pFcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120101621135-7gpmoeudirv2osk8m3fe29lu8nv4m2rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
